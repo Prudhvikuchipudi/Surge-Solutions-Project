@@ -1,0 +1,17 @@
+[
+    {
+        "id": "companyproduct1",
+        "employmentStatus": "Part-Time",
+        "goalOfLoan": "Home Loan",
+        "loanAmount": 100000,
+        "income": 10000
+    },
+
+    {
+        "id": "companyproduct2",
+        "employmentStatus": "FullTime",
+        "goalOfLoan": "Car Loan",
+        "loanAmount": 30000,
+        "income": 15000
+    }
+]
